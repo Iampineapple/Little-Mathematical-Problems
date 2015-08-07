@@ -1,4 +1,4 @@
-#!/user/bin/env python
+#!/usr/bin/env python
 class Complex(object):
 	#This is a simple implementation of complex arithmetic as a class
 	#It was written in order to gain practice with Python classes
